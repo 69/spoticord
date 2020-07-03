@@ -6,6 +6,7 @@
   - NodeJS >=8
   - npm (>=5)
   - Discord
+  - Git
 
 ## Setup
 
